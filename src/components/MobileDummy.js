@@ -28,6 +28,7 @@ const DummyFrame = styled.iframe`
   border-bottom: 60px solid black;
   border-radius: 40px;
   background-color: white;
+  box-shadow: 0 0 4px silver;
 `
 
 const Circle = styled.div`
