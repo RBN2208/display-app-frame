@@ -20,8 +20,8 @@ const Box = styled.div`
 
 const DummyFrame = styled.iframe`
   position: relative;
-  height: 667px;
-  width: 375px;
+  height: 700px;
+  width: 390px;
   border-left: 15px solid black;
   border-right: 15px solid black;
   border-top: 60px solid black;
