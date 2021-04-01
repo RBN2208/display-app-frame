@@ -33,7 +33,7 @@ const DummyFrame = styled.iframe`
 
 const Circle = styled.div`
   position: absolute;
-  bottom: 26px;
+  bottom: 10px;
   right: 180px;
   width: 40px;
   height: 40px;
